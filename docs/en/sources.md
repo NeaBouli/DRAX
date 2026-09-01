@@ -25,3 +25,5 @@ Reviewed 1 September 2026. For legal and technical claims, rely on the linked pr
 14. [IMF — Currency Boards and Lender of Last Resort](https://www.elibrary.imf.org/view/journals/007/1999/009/article-A004-en.xml).
 
 1kUSD is mentioned solely as methodological experience for invariants, threat modelling, known limitations, telemetry and sunset discipline. Internal files, the USD peg, PSM, oracle design and EVM architecture are not a source or foundation for DRX.
+
+[Continue to the dossier and complete documents →](/DRAX/en/dossier.html)

@@ -11,17 +11,17 @@ description: "Euro-area law, MiCA, Genesis Steward and public key burn"
 
 ## Three legal situations must not be mixed
 
-### League A — Phase 0 inside the euro area
+### Category A — Phase 0 inside the euro area
 
 The proposed scope is research, simulation, a valueless testnet, security work and cash-process experiments without nominal value. There is no mandatory acceptance, tax acceptance, wage payment or state-backed ΔΡΑΧ value.
 
 A later voluntary value-bearing pilot would require prior analysis of MiCA classification, whitepaper duties, CASP authorisation, AML/Travel Rule, privacy, tax and consumer protection. The study does not claim a final MiCA classification.
 
-### League B — voluntary complementary use
+### Category B — voluntary complementary use
 
 Voluntary use for selected fees, vouchers or contracts could be examined. The more the state uses taxes, salaries or public procurement to create compulsory ΔΡΑΧ demand, the more the arrangement resembles a parallel currency with monetary character. This is legally and politically sensitive and outside Phase 0.
 
-### League C — full monetary sovereignty
+### Category C — full monetary sovereignty
 
 Legal tender, tax denomination, national notes and mandatory acceptance would require a separate fundamental decision on monetary sovereignty. Target2, banks, deposit insurance, euro debt, contracts, capital controls, cash logistics and international agreements would have to be addressed. The dossier outlines the questions but does not recommend leaving the euro area.
 

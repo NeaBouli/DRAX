@@ -11,17 +11,17 @@ description: "Eurozonenrecht, MiCA, Genesis Steward und Key Burn"
 
 ## Drei Rechtslagen dürfen nicht vermischt werden
 
-### Liga A — Phase 0 innerhalb der Eurozone
+### Rechtslage A — Phase 0 innerhalb der Eurozone
 
 Zulässig untersucht werden sollen Forschung, Simulation, ein wertloses Testnet, Sicherheits- und Bargeldprozesse ohne Nennwert. Es gibt keine Annahmepflicht, keine Steuerannahme, keine Lohnzahlung und keinen staatlichen ΔΡΑΧ-Wert.
 
 Für einen späteren freiwilligen werttragenden Pilot wären MiCA-Einordnung, Whitepaperpflichten, CASP-Lizenzen, AML/Travel Rule, Datenschutz, Steuer- und Verbraucherschutz vorab zu klären. Die Studie trifft keine endgültige MiCA-Klassifikation.
 
-### Liga B — freiwillige Komplementärnutzung
+### Rechtslage B — freiwillige Komplementärnutzung
 
 Eine freiwillige Nutzung für ausgewählte Gebühren, Gutscheine oder Verträge könnte rechtlich geprüft werden. Je stärker Staat, Steuern, Gehälter oder öffentliche Aufträge eine ΔΡΑΧ-Nachfrage erzwingen, desto eher entsteht der Eindruck einer Parallelwährung mit Währungscharakter. Das ist politisch und rechtlich heikel und nicht Teil der Phase-0-Freigabe.
 
-### Liga C — vollständige Währungssouveränität
+### Rechtslage C — vollständige Währungssouveränität
 
 Legal Tender, Steuerdenomination, nationale Banknoten und verpflichtende Annahme wären nur nach einer separaten grundlegenden Entscheidung zur Währungssouveränität denkbar. Dann wären Target2, Banken, Einlagensicherung, Euro-Schulden, Verträge, Kapitalverkehr, Bargeldlogistik und internationale Abkommen zu lösen. Das Dossier skizziert diese Fragen, empfiehlt aber keinen Austritt aus der Eurozone.
 

@@ -25,3 +25,5 @@ description: "Πρωτογενείς πηγές και μητρώο επαλήθ
 14. [IMF — Currency Boards and Lender of Last Resort](https://www.elibrary.imf.org/view/journals/007/1999/009/article-A004-en.xml).
 
 Το 1kUSD αναφέρεται αποκλειστικά ως μεθοδολογική εμπειρία για invariants, threat modelling, known limitations, telemetry και sunset discipline. Εσωτερικά αρχεία, USD peg, PSM, oracle design και EVM architecture δεν αποτελούν πηγή ή βάση του DRX.
+
+[Συνέχεια στον δημόσιο φάκελο και τα πλήρη έγγραφα →](/DRAX/el/dossier.html)

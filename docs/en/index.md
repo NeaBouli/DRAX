@@ -9,7 +9,7 @@ description: "English introduction to the public DRX feasibility study"
 
 ## Hellenic Monetary Technology Initiative
 
-**Monetary unit:** dig Δραχμή · **Symbol:** ΔΡΑΧ · **Project mark:** DRX
+**Digital designation:** dig Δραχμή (“digital Drachma”) · **Symbol:** ΔΡΑΧ · **Project mark:** DRX
 
 A hard digital, offline-capable and physical unit of account.
 

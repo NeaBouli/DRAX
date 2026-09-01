@@ -9,7 +9,7 @@ description: "Deutschsprachiger Einstieg in die öffentliche DRX-Machbarkeitsstu
 
 ## Griechische Initiative für Währungstechnologie
 
-**Währungseinheit:** dig Δραχμή · **Symbol:** ΔΡΑΧ · **Projektmarke:** DRX
+**Digitale Bezeichnung:** dig Δραχμή („digitale Drachme“) · **Symbol:** ΔΡΑΧ · **Projektmarke:** DRX
 
 Eine harte digitale, offline-fähige und physische Rechnungseinheit.
 

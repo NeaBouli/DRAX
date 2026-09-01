@@ -1,8 +1,8 @@
 title: "DRX · ΑΝΕΞΑΡΤΗΤΗ ΔΡΑΧΜΗ"
-description: "Independent trilingual feasibility study for a hard digital, offline-capable and physical monetary unit."
+description: "Δημόσια τριγλωσσική μελέτη σκοπιμότητας για μία σκληρή ψηφιακή, offline και φυσική νομισματική μονάδα."
 url: "https://neabouli.github.io"
 baseurl: "/DRAX"
-lang: en
+lang: el
 markdown: kramdown
 defaults:
   - scope:

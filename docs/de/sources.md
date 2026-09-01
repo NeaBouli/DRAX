@@ -25,3 +25,5 @@ Stand: 1. September 2026. Bei rechtlichen und technischen Aussagen gelten die ve
 14. [IMF — Currency Boards and Lender of Last Resort](https://www.elibrary.imf.org/view/journals/007/1999/009/article-A004-en.xml): Krisenliquidität harter Geldordnungen.
 
 1kUSD wird ausschließlich als methodische Erfahrung für Invarianten, Threat Modeling, bekannte Grenzen, Telemetrie und Sunset-Disziplin erwähnt. Interne Dateien, USD-Peg, PSM, Oracle- und EVM-Architektur sind keine Quelle oder Grundlage von DRX.
+
+[Weiter zum Dossier und den vollständigen Unterlagen →](/DRAX/de/dossier.html)

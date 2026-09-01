@@ -58,7 +58,15 @@ S(t) ≤ Mmax
 
 ## 4. Σύνδεση ψηφιακής και φυσικής μορφής
 
-![Κύκλος CashLot](/DRAX/assets/images/architecture/el/cashlot-cycle.png)
+<div class="process-grid cashlot-process" role="img" aria-label="Κύκλος CashLot από την ψηφιακή δέσμευση έως την αποδέσμευση">
+  <div class="process-step"><span>1</span><h3>Ψηφιακή δέσμευση</h3><p>Το αντίστοιχο ποσό ΔΡΑΧ κλειδώνεται στο CashLot.</p></div>
+  <div class="process-step"><span>2</span><h3>Εντολή παραγωγής</h3><p>Η εκτύπωση ή κοπή επιτρέπεται μόνο με έγκυρη εντολή.</p></div>
+  <div class="process-step"><span>3</span><h3>Φυσική κυκλοφορία</h3><p>Το χαρτονόμισμα ή κέρμα κυκλοφορεί ως η ίδια υποχρέωση.</p></div>
+  <div class="process-step"><span>4</span><h3>Έλεγχος και καταστροφή</h3><p>Η επιστροφή ελέγχεται, ακυρώνεται και καταστρέφεται.</p></div>
+  <div class="process-step"><span>5</span><h3>Ψηφιακή αποδέσμευση</h3><p>Αποδεσμεύεται ψηφιακά ακριβώς το ίδιο ποσό ΔΡΑΧ.</p></div>
+</div>
+
+**Κανόνας:** `x` φυσικά ΔΡΑΧ απαιτούν πάντοτε `x` ψηφιακά ΔΡΑΧ δεσμευμένα στο CashLot.
 
 1. Μια νομικά ορισμένη Cash Utility ή τράπεζα δεσμεύει `x ΔΡΑΧ` σε CashLot.
 2. Το covenant παρέχει δημόσια επαληθεύσιμη εντολή παραγωγής για συγκεκριμένη παρτίδα.
