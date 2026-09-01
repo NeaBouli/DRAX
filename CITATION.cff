@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "dig Drachmi (DRAX): Public Feasibility Study"
+type: report
+authors:
+  - family-names: "Kaspartizan"
+    given-names: "Gio"
+    affiliation: "Vendetta Labs"
+version: "0.9-public"
+date-released: "2026-09-01"
+repository-code: "https://github.com/NeaBouli/DRAX"
+url: "https://neabouli.github.io/DRAX/"
+license: "CC-BY-SA-4.0"
