@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Law and governance"
+title: "DRX Programme — Law and governance"
 description: "Euro-area law, MiCA, Genesis Steward and public key burn"
 ---
 
@@ -51,4 +51,3 @@ These are planning parameters. After sunset, no ministry, bank or token majority
 Governance may propose parameters at the edges, such as fee guidance, indexer lists or risk reports. It must not gain a global pause switch, blacklist, new mint authority or the ability to extend the Genesis mandate. Every residual governance power is a potential capture point.
 
 [Primary legal and technical sources →](/DRAX/en/sources.html)
-

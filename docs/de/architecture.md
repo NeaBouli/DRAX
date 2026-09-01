@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Architektur"
+title: "Programm DRX — Architektur"
 description: "Monetäre, technische, physische und institutionelle Architektur"
 ---
 
@@ -27,7 +27,7 @@ Für jede gültige Zustandsänderung soll formal gelten: Inputs plus erlaubte Em
 
 ## 2. Warum kein kollateralisiertes Stablecoin-Modell
 
-Die öffentliche DRAX-Fassung trennt die Landeswährung von 1kUSD. Es gibt keinen USD-Peg, kein PSM, keinen Mint gegen USDC/USDT/EURC und keinen Preis-Oracle im monetären Kern. BTC, ETH oder Gold können später in einem getrennten, freiwilligen Liquiditäts- oder Krisenfonds gehalten werden. Sie erzeugen aber kein Prägerecht und garantieren keinen Wechselkurs.
+Die öffentliche DRX-Fassung trennt die Landeswährung von 1kUSD. Es gibt keinen USD-Peg, kein PSM, keinen Mint gegen USDC/USDT/EURC und keinen Preis-Oracle im monetären Kern. BTC, ETH oder Gold können später in einem getrennten, freiwilligen Liquiditäts- oder Krisenfonds gehalten werden. Sie erzeugen aber kein Prägerecht und garantieren keinen Wechselkurs.
 
 Damit wird ein systemischer Import des Fiat-Pegs vermieden. Der Preis von ΔΡΑΧ gegenüber EUR, USD, BTC oder Waren schwimmt am Markt. Das macht die Einheit härter, aber nicht automatisch preisstabil.
 
@@ -94,4 +94,3 @@ Der Preis dafür ist real: Kredit kann teurer und in Krisen knapper werden. Ohne
 Mindestens drei unabhängig betriebene Indexer sollen Gesamtmenge, Genesis- und Emissionszustand, CashLot-Salden, OfflineLock-Alter, Steward-Schlüsselstatus und Abweichungen zwischen physischem Register und on-chain Commitments rekonstruieren. Ein Indexer ist Beobachter, nicht Quelle der Wahrheit.
 
 [Recht und Governance →](/DRAX/de/law-governance.html)
-

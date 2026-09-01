@@ -1,22 +1,23 @@
 ---
-title: "ΔΡΑΧ — Οδηγός φακέλου"
-description: "Ελληνικός οδηγός ανάγνωσης της κανονικής γερμανικής δημόσιας ερευνητικής έκδοσης"
+title: "Πρόγραμμα DRX — Δημόσιος φάκελος"
+description: "Πλήρης ελληνικός φάκελος και οδηγός ανάγνωσης της δημόσιας μελέτης σκοπιμότητας DRX"
 ---
 
 [← Αρχιτεκτονική](/DRAX/el/architecture.html) · [Deutsch](/DRAX/de/dossier.html) · [English](/DRAX/en/dossier.html) · [Λήψεις](/DRAX/el/slides.html)
 
 # Ο δημόσιος φάκελος
 
-Το γερμανικό whitepaper των 38 σελίδων είναι η **κανονική Έκδοση 0.9**. Ο παρών ελληνικός οδηγός εξηγεί την ίδια δομή, αλλά δεν αποτελεί πιστοποιημένη ή επίσημη νομική μετάφραση.
+Η γερμανική Λευκή Βίβλος είναι η **κανονική Έκδοση 0.9**. Παρακάτω διατίθεται πλήρης επαγγελματική ελληνική μετάφραση εργασίας· δεν αποτελεί πιστοποιημένη ή επίσημη νομική μετάφραση.
 
 > Ανεξάρτητη πρωτοβουλία της Vendetta Labs. Χωρίς κρατική εντολή ή έγκριση. Δεν αποτελεί νομική συμβουλή, απόφαση έκδοσης ή πρόταση εξόδου από τη ζώνη του ευρώ.
 
-## Λήψη πρωτοτύπων
+## Λήψη της ελληνικής έκδοσης
 
-- [Whitepaper και υπουργικός φάκελος · PDF](/DRAX/downloads/de/Drachmi_Whitepaper_Ministerial_Dossier_DE.pdf)
-- [Executive Decision Memo · PDF](/DRAX/downloads/de/Drachmi_Executive_Decision_Memo_DE.pdf)
-- [Επιστολή και πρότυπο υποβολής · PDF](/DRAX/downloads/de/Drachmi_Ministeriumsanschreiben_Vorlage_DE.pdf)
-- [Υπουργική παρουσίαση · PDF](/DRAX/downloads/de/Drachmi_Ministeriums_Praesentation_DE.pdf)
+- [Λευκή Βίβλος και υπουργικός φάκελος · PDF](/DRAX/downloads/el/DRX_Whitepaper_Ministerial_Dossier_EL.pdf)
+- [Λευκή Βίβλος και υπουργικός φάκελος · DOCX](/DRAX/downloads/el/DRX_Whitepaper_Ministerial_Dossier_EL.docx)
+- [Υπόμνημα εκτελεστικής απόφασης · PDF](/DRAX/downloads/el/DRX_Executive_Decision_Memo_EL.pdf)
+- [Πρότυπο υποβολής προς το Υπουργείο · PDF](/DRAX/downloads/el/DRX_Ministry_Submission_Template_EL.pdf)
+- [Υπουργική παρουσίαση · PDF](/DRAX/downloads/el/DRX_Ministerial_Presentation_EL.pdf)
 
 ## Χάρτης κεφαλαίων
 
@@ -73,4 +74,3 @@ Threat model για διπλή έκδοση, compiler errors, governance capture
 Η μελέτη δεν υπόσχεται ταυτόχρονα σταθερή προσφορά, απεριόριστη ρευστότητα κρίσης, offline οριστικότητα, ανωνυμία και θεσμική ανεξαρτησία. Αυτοί οι συμβιβασμοί καθορίζουν το Go ή No-Go.
 
 [Φάση 0 και κίνδυνοι →](/DRAX/el/phase-0-risks.html)
-

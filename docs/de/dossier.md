@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Dossier"
+title: "Programm DRX — Dossier"
 description: "Leseführung und Download der deutschen öffentlichen Forschungsfassung"
 ---
 
@@ -7,17 +7,17 @@ description: "Leseführung und Download der deutschen öffentlichen Forschungsfa
 
 # Das öffentliche Dossier
 
-Das 38-seitige deutsche Whitepaper ist die **kanonische Version 0.9**. Die englischen und griechischen Webseiten erklären denselben Inhalt, sind aber keine amtlichen oder juristisch beglaubigten Übersetzungen.
+Das deutsche Whitepaper ist die **kanonische Version 0.9**. Zusätzlich stehen vollständige englische und griechische Arbeitsübersetzungen bereit; sie sind nicht amtlich oder juristisch beglaubigt.
 
 > Private Initiative von Vendetta Labs. Nicht staatlich beauftragt oder genehmigt. Keine Rechtsberatung, kein Emissionsbeschluss und keine Grexit-Empfehlung.
 
 ## Direkt herunterladen
 
-- [Whitepaper und Ministerialdossier · PDF](/DRAX/downloads/de/Drachmi_Whitepaper_Ministerial_Dossier_DE.pdf)
-- [Whitepaper und Ministerialdossier · DOCX](/DRAX/downloads/de/Drachmi_Whitepaper_Ministerial_Dossier_DE.docx)
-- [Executive Decision Memo · PDF](/DRAX/downloads/de/Drachmi_Executive_Decision_Memo_DE.pdf)
-- [Ministeriumsanschreiben und Vorlage · PDF](/DRAX/downloads/de/Drachmi_Ministeriumsanschreiben_Vorlage_DE.pdf)
-- [Ministeriumspräsentation · PDF](/DRAX/downloads/de/Drachmi_Ministeriums_Praesentation_DE.pdf)
+- [Whitepaper und Ministerialdossier · PDF](/DRAX/downloads/de/DRX_Whitepaper_Ministerial_Dossier_DE.pdf)
+- [Whitepaper und Ministerialdossier · DOCX](/DRAX/downloads/de/DRX_Whitepaper_Ministerial_Dossier_DE.docx)
+- [Executive Decision Memo · PDF](/DRAX/downloads/de/DRX_Executive_Decision_Memo_DE.pdf)
+- [Ministeriumsanschreiben und Vorlage · PDF](/DRAX/downloads/de/DRX_Ministry_Submission_Template_DE.pdf)
+- [Ministeriumspräsentation · PDF](/DRAX/downloads/de/DRX_Ministerial_Presentation_DE.pdf)
 
 ## Kapitelwegweiser
 
@@ -74,4 +74,3 @@ Enthält vollständige Beispielparameter, Transaktionsabläufe, Fachbegriffe und
 Die Studie verspricht nicht gleichzeitig fixe Menge, unbegrenzte Krisenliquidität, Offline-Finalität, Anonymität und Institutionenfreiheit. Genau diese Zielkonflikte entscheiden über Go oder No-Go.
 
 [Phase 0 und Risiken →](/DRAX/de/phase-0-risks.html)
-

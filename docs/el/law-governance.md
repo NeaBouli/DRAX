@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Νομικό πλαίσιο και διακυβέρνηση"
+title: "Πρόγραμμα DRX — Νομικό πλαίσιο και διακυβέρνηση"
 description: "Δίκαιο ευρωζώνης, MiCA, Genesis Steward και δημόσιο key burn"
 ---
 
@@ -51,4 +51,3 @@ description: "Δίκαιο ευρωζώνης, MiCA, Genesis Steward και δη
 Η governance μπορεί να προτείνει παραμέτρους στα άκρα του συστήματος, όπως fee guidance, λίστες indexer ή risk reports. Δεν πρέπει να αποκτήσει global pause, blacklist, νέο mint authority ή δυνατότητα παράτασης της Genesis εντολής. Κάθε υπολειπόμενη εξουσία αποτελεί πιθανό σημείο capture.
 
 [Πρωτογενείς νομικές και τεχνικές πηγές →](/DRAX/el/sources.html)
-

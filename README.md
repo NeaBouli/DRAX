@@ -1,4 +1,10 @@
-# dig Δραχμή · ΔΡΑΧ · DRAX
+# ΠΡΟΓΡΑΜΜΑ DRX — ΑΝΕΞΑΡΤΗΤΗ ΔΡΑΧΜΗ
+
+**Ελληνική Πρωτοβουλία Νομισματικής Τεχνολογίας**
+
+**DRX Programme — Independent Drachma**
+
+**Programm DRX — Unabhängige Drachme**
 
 **Public feasibility study for a hard digital, offline-capable and physical national currency.**
 
@@ -8,7 +14,7 @@
 
 [Deutsch](https://neabouli.github.io/DRAX/de/) · [English](https://neabouli.github.io/DRAX/en/) · [Ελληνικά](https://neabouli.github.io/DRAX/el/) · [Project website](https://neabouli.github.io/DRAX/)
 
-![ΔΡΑΧ public research presentation](docs/assets/images/og.png)
+![DRX project mark](docs/assets/images/brand/drx-logo.jpg)
 
 > **Status — 1 September 2026:** This is an independent public research project by Vendetta Labs. It is not commissioned, approved or endorsed by the Greek government, the Bank of Greece, the European Central Bank or Kaspa. ΔΡΑΧ is not legal tender, not a live asset, not an investment product and not available for purchase.
 
@@ -37,8 +43,8 @@ Changing form must not create money. A physical note worth `x ΔΡΑΧ` may exis
 - Eurozone legal boundaries and a separate monetary-sovereignty scenario;
 - Phase-0 plan, budget bands, milestones and stop criteria;
 - an honest risk register;
-- the complete German public research dossier, decision memo, ministry submission template and presentation;
-- all presentation slides as browser-readable images.
+- complete German, English and Greek editions of the public research dossier, decision memo, ministry submission template and presentation;
+- all three presentations as browser-readable slide galleries.
 
 ## What is deliberately not here
 
@@ -55,7 +61,7 @@ No protocol code, smart contracts, wallets, token sale, deployable binaries, mai
 | [Phase 0 & Risiken](docs/de/phase-0-risks.md) | [Phase 0 & risks](docs/en/phase-0-risks.md) | [Φάση 0 & κίνδυνοι](docs/el/phase-0-risks.md) |
 | [Folien & Downloads](docs/de/slides.md) | [Slides & downloads](docs/en/slides.md) | [Διαφάνειες & λήψεις](docs/el/slides.md) |
 
-The German dossier is the canonical Version 0.9 source. English and Greek web pages are explanatory translations. Greek legal terminology remains subject to review by qualified Greek counsel.
+The German dossier remains the canonical Version 0.9 source. English and Greek editions are complete working translations, not certified legal translations. Greek legal terminology remains subject to review by qualified Greek counsel.
 
 ## Licence
 

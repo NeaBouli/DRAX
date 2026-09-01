@@ -1,13 +1,17 @@
 ---
-title: "ΔΡΑΧ — Projektüberblick"
-description: "Deutschsprachiger Einstieg in die öffentliche DRAX-Machbarkeitsstudie"
+title: "Programm DRX — Unabhängige Drachme"
+description: "Deutschsprachiger Einstieg in die öffentliche DRX-Machbarkeitsstudie"
 ---
 
 [Deutsch](/DRAX/de/) · [English](/DRAX/en/) · [Ελληνικά](/DRAX/el/) · [GitHub](https://github.com/NeaBouli/DRAX)
 
-# dig Δραχμή · ΔΡΑΧ
+# PROGRAMM DRX — UNABHÄNGIGE DRACHME
 
-## Eine harte digitale, offline-fähige und physische Rechnungseinheit
+## Griechische Initiative für Währungstechnologie
+
+**Währungseinheit:** dig Δραχμή · **Symbol:** ΔΡΑΧ · **Projektmarke:** DRX
+
+Eine harte digitale, offline-fähige und physische Rechnungseinheit.
 
 > **Öffentliche Forschungsfassung einer privaten Initiative von Vendetta Labs. Kein staatlicher Auftrag. Kein gesetzliches Zahlungsmittel. Kein existierender Coin. Kein Verkauf.**
 
@@ -62,4 +66,3 @@ Kaspa Toccata beschreibt ein UTXO-natives Modell, in dem ein Covenant beim Ausge
 Vorgeschlagen wird ausschließlich eine 12- bis 18-monatige **Phase 0** mit einer Mittelobergrenze von 1,6 Mio. Euro. Sie enthält Rechtsgutachten, Makrosimulation, einen wertlosen Testnet-Prototyp, CashLot-/Offline-Labortests und unabhängige Reviews. Nicht enthalten sind Mainnet-Wert, Banknoten mit Nennwert, Steuerannahme oder Legal Tender.
 
 [Weiter zur Architektur →](/DRAX/de/architecture.html)
-

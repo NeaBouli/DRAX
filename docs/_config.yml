@@ -1,9 +1,11 @@
-title: "dig Δραχμή · ΔΡΑΧ"
-description: "Public trilingual feasibility study for a hard digital, offline-capable and physical national currency."
-theme: jekyll-theme-minimal
-logo: /DRAX/assets/images/og.png
-show_downloads: false
+title: "DRX · ΑΝΕΞΑΡΤΗΤΗ ΔΡΑΧΜΗ"
+description: "Independent trilingual feasibility study for a hard digital, offline-capable and physical monetary unit."
 url: "https://neabouli.github.io"
 baseurl: "/DRAX"
 lang: en
-
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

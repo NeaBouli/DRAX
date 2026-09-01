@@ -1,22 +1,23 @@
 ---
-title: "ΔΡΑΧ — Dossier guide"
-description: "English reading guide to the canonical German public research dossier"
+title: "DRX Programme — Dossier"
+description: "English dossier and reading guide for the DRX public feasibility study"
 ---
 
 [← Architecture](/DRAX/en/architecture.html) · [Deutsch](/DRAX/de/dossier.html) · [Ελληνικά](/DRAX/el/dossier.html) · [Downloads](/DRAX/en/slides.html)
 
-# Public dossier guide
+# Public dossier
 
-The 38-page German whitepaper is the **canonical Version 0.9**. This English guide explains the same structure but is not a certified or official legal translation.
+The German white paper is the **canonical Version 0.9**. A complete professional English working translation is available below; it is not a certified or official legal translation.
 
 > Independent Vendetta Labs initiative. Not commissioned or approved by a government. Not legal advice, an issuance decision or a recommendation to leave the euro area.
 
-## Download the originals
+## Download the English edition
 
-- [Whitepaper and ministerial dossier · PDF](/DRAX/downloads/de/Drachmi_Whitepaper_Ministerial_Dossier_DE.pdf)
-- [Executive Decision Memo · PDF](/DRAX/downloads/de/Drachmi_Executive_Decision_Memo_DE.pdf)
-- [Ministry submission letter and template · PDF](/DRAX/downloads/de/Drachmi_Ministeriumsanschreiben_Vorlage_DE.pdf)
-- [Ministerial presentation · PDF](/DRAX/downloads/de/Drachmi_Ministeriums_Praesentation_DE.pdf)
+- [White paper and ministerial dossier · PDF](/DRAX/downloads/en/DRX_Whitepaper_Ministerial_Dossier_EN.pdf)
+- [White paper and ministerial dossier · DOCX](/DRAX/downloads/en/DRX_Whitepaper_Ministerial_Dossier_EN.docx)
+- [Executive decision memorandum · PDF](/DRAX/downloads/en/DRX_Executive_Decision_Memo_EN.pdf)
+- [Ministry submission template · PDF](/DRAX/downloads/en/DRX_Ministry_Submission_Template_EN.pdf)
+- [Ministerial presentation · PDF](/DRAX/downloads/en/DRX_Ministerial_Presentation_EN.pdf)
 
 ## Chapter map
 
@@ -73,4 +74,3 @@ Provides example parameters, transaction paths, terminology and a source registe
 The study does not promise fixed supply, unlimited crisis liquidity, offline finality, anonymity and institutional independence at the same time. These trade-offs determine Go or No-Go.
 
 [Phase 0 and risks →](/DRAX/en/phase-0-risks.html)
-

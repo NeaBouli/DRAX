@@ -6,7 +6,7 @@ German is the canonical source language. Product names remain untranslated; the 
 |---|---|---|---|
 | harte digitale Währung | hard digital currency | σκληρό ψηφιακό νόμισμα | Never call ΔΡΑΧ a stablecoin or CBDC |
 | Rechnungseinheit | unit of account | λογιστική μονάδα | The unit is broader than its digital representation |
-| Bearer Value | bearer value | αξία επιδειχθέντος (bearer value) | Self-custodied spend authority, not an account claim |
+| Bearer Value | bearer value | αξία στον κομιστή (bearer value) | Self-custodied spend authority, not an account claim |
 | Geldmengenobergrenze (Mmax) | hard supply cap (Mmax) | απόλυτο ανώτατο όριο νομισματικής προσφοράς (Mmax) | A planning invariant to be formally proven |
 | CashLot | CashLot | CashLot (δεσμευμένη παρτίδα μετρητών) | Never translate the proper name |
 | OfflineLock | OfflineLock | OfflineLock (προχρηματοδοτούμενη offline δέσμευση) | Prefunded and bounded |
@@ -17,4 +17,3 @@ German is the canonical source language. Product names remain untranslated; the 
 | wertloses Testnet | valueless testnet | δοκιμαστικό δίκτυο χωρίς πραγματική αξία | “Without real value” must remain explicit |
 
 Greek legal terminology is an editorial working translation and requires review by a qualified Greek legal translator before use in legislation or an official submission.
-

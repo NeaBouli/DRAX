@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Quellen"
+title: "Programm DRX — Quellen"
 description: "Primärquellen und Verifikationsregister"
 ---
 
@@ -24,4 +24,4 @@ Stand: 1. September 2026. Bei rechtlichen und technischen Aussagen gelten die ve
 13. [BIS Annual Economic Report 2025](https://www.bis.org/publications/aer-2025/next-generation-monetary-financial-system): Singleness, Elasticity und Integrity als Gegenmaßstab.
 14. [IMF — Currency Boards and Lender of Last Resort](https://www.elibrary.imf.org/view/journals/007/1999/009/article-A004-en.xml): Krisenliquidität harter Geldordnungen.
 
-1kUSD wird ausschließlich als methodische Erfahrung für Invarianten, Threat Modeling, bekannte Grenzen, Telemetrie und Sunset-Disziplin erwähnt. Interne Dateien, USD-Peg, PSM, Oracle- und EVM-Architektur sind keine Quelle oder Grundlage von DRAX.
+1kUSD wird ausschließlich als methodische Erfahrung für Invarianten, Threat Modeling, bekannte Grenzen, Telemetrie und Sunset-Disziplin erwähnt. Interne Dateien, USD-Peg, PSM, Oracle- und EVM-Architektur sind keine Quelle oder Grundlage von DRX.

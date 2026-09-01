@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Πηγές"
+title: "Πρόγραμμα DRX — Πηγές"
 description: "Πρωτογενείς πηγές και μητρώο επαλήθευσης"
 ---
 
@@ -24,4 +24,4 @@ description: "Πρωτογενείς πηγές και μητρώο επαλήθ
 13. [BIS Annual Economic Report 2025](https://www.bis.org/publications/aer-2025/next-generation-monetary-financial-system).
 14. [IMF — Currency Boards and Lender of Last Resort](https://www.elibrary.imf.org/view/journals/007/1999/009/article-A004-en.xml).
 
-Το 1kUSD αναφέρεται αποκλειστικά ως μεθοδολογική εμπειρία για invariants, threat modelling, known limitations, telemetry και sunset discipline. Εσωτερικά αρχεία, USD peg, PSM, oracle design και EVM architecture δεν αποτελούν πηγή ή βάση του DRAX.
+Το 1kUSD αναφέρεται αποκλειστικά ως μεθοδολογική εμπειρία για invariants, threat modelling, known limitations, telemetry και sunset discipline. Εσωτερικά αρχεία, USD peg, PSM, oracle design και EVM architecture δεν αποτελούν πηγή ή βάση του DRX.

@@ -1,4 +1,6 @@
-# Project status · Projektstatus · Κατάσταση έργου
+# Πρόγραμμα DRX — Ανεξάρτητη Δραχμή
+
+## Project status · Projektstatus · Κατάσταση έργου
 
 **Last reviewed / zuletzt geprüft / τελευταία επανεξέταση:** 1 September 2026
 
@@ -20,4 +22,3 @@
 - The €0.95–1.65 million range and €1.6 million cap are **a research proposal, not approved funding**.
 - Any full legal-tender scenario requires **a separate decision on monetary sovereignty**. This project does not recommend Grexit.
 - Kaspa Toccata is the proposed research substrate, but toolchain maturity, fees, network governance and migration remain open dependencies.
-

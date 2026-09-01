@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Folien und Downloads"
+title: "Programm DRX — Folien und Downloads"
 description: "Präsentationsgalerie und öffentliche Dokumente"
 ---
 
@@ -11,10 +11,10 @@ description: "Präsentationsgalerie und öffentliche Dokumente"
 
 | Dokument | PDF | Bearbeitbare Fassung |
 |---|---|---|
-| Whitepaper und Ministerialdossier | [PDF](/DRAX/downloads/de/Drachmi_Whitepaper_Ministerial_Dossier_DE.pdf) | [DOCX](/DRAX/downloads/de/Drachmi_Whitepaper_Ministerial_Dossier_DE.docx) |
-| Executive Decision Memo | [PDF](/DRAX/downloads/de/Drachmi_Executive_Decision_Memo_DE.pdf) | [DOCX](/DRAX/downloads/de/Drachmi_Executive_Decision_Memo_DE.docx) |
-| Ministeriumsanschreiben und Vorlage | [PDF](/DRAX/downloads/de/Drachmi_Ministeriumsanschreiben_Vorlage_DE.pdf) | [DOCX](/DRAX/downloads/de/Drachmi_Ministeriumsanschreiben_Vorlage_DE.docx) |
-| Ministeriumspräsentation | [PDF](/DRAX/downloads/de/Drachmi_Ministeriums_Praesentation_DE.pdf) | [PPTX](/DRAX/downloads/de/Drachmi_Ministeriums_Praesentation_DE.pptx) |
+| Whitepaper und Ministerialdossier | [PDF](/DRAX/downloads/de/DRX_Whitepaper_Ministerial_Dossier_DE.pdf) | [DOCX](/DRAX/downloads/de/DRX_Whitepaper_Ministerial_Dossier_DE.docx) |
+| Executive Decision Memo | [PDF](/DRAX/downloads/de/DRX_Executive_Decision_Memo_DE.pdf) | [DOCX](/DRAX/downloads/de/DRX_Executive_Decision_Memo_DE.docx) |
+| Ministeriumsanschreiben und Vorlage | [PDF](/DRAX/downloads/de/DRX_Ministry_Submission_Template_DE.pdf) | [DOCX](/DRAX/downloads/de/DRX_Ministry_Submission_Template_DE.docx) |
+| Ministeriumspräsentation | [PDF](/DRAX/downloads/de/DRX_Ministerial_Presentation_DE.pdf) | [PPTX](/DRAX/downloads/de/DRX_Ministerial_Presentation_DE.pptx) |
 
 ## Präsentationsgalerie
 
@@ -67,4 +67,3 @@ Die Folien sind Teil der öffentlichen Forschungsfassung. Quellen stehen in den 
 
 ### 16. Der beantragte Beschluss
 ![Entscheidungsantrag](/DRAX/assets/slides/de/slide-16.png)
-

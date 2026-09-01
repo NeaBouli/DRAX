@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Phase 0 and risks"
+title: "DRX Programme — Phase 0 and risks"
 description: "Research plan, budget, stop criteria and honest residual risk"
 ---
 
@@ -71,4 +71,3 @@ The €0.95–1.65 million range is **a proposal, not approved funding**. It con
 A fixed supply can amplify deflation and real debt burdens. Narrow banking can make credit more expensive. Notes and coins still depend on human institutions. Offline finality is bounded. Kaspa does not replace national law or a migration strategy. Technology cannot make prohibition, market exclusion or geopolitical rejection impossible.
 
 Phase 0 is defensible precisely because **No-Go** is an acceptable and useful outcome.
-

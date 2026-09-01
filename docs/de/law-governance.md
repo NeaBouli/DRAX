@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Recht und Governance"
+title: "Programm DRX — Recht und Governance"
 description: "Eurozonenrecht, MiCA, Genesis Steward und Key Burn"
 ---
 
@@ -51,4 +51,3 @@ Das sind Planungsparameter. Nach dem Sunset sollen kein Ministerium, keine Bank 
 Governance darf Parameter an den Systemrändern vorschlagen — etwa Gebührenhinweise, Indexerlisten oder Risikoberichte. Sie darf keinen globalen Pause-Schalter, keine Blacklist, kein neues Mint-Recht und keine Verlängerung des Genesis-Mandats erhalten. Jede verbleibende Governance-Macht ist als möglicher Capture-Punkt zu behandeln.
 
 [Quellen und Rechtsgrundlagen →](/DRAX/de/sources.html)
-

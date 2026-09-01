@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Architecture"
+title: "DRX Programme — Architecture"
 description: "Monetary, technical, physical and institutional architecture"
 ---
 
@@ -27,7 +27,7 @@ Every valid transition is intended to satisfy: inputs plus permitted emissions e
 
 ## 2. Why this is not a collateralised stablecoin
 
-The public DRAX design is separated from 1kUSD. There is no USD peg, PSM, mint against USDC/USDT/EURC or price oracle in the monetary core. BTC, ETH or gold could later be held in a separate voluntary liquidity or contingency fund, but such holdings would confer no minting right and promise no exchange rate.
+The public DRX design is separated from 1kUSD. There is no USD peg, PSM, mint against USDC/USDT/EURC or price oracle in the monetary core. BTC, ETH or gold could later be held in a separate voluntary liquidity or contingency fund, but such holdings would confer no minting right and promise no exchange rate.
 
 This avoids importing a fiat peg into the money supply. The market price of ΔΡΑΧ against EUR, USD, BTC or goods would float. That makes the unit harder, but not automatically stable in purchasing power.
 
@@ -94,4 +94,3 @@ The cost is real: credit may become more expensive and scarce in a crisis. Witho
 At least three independently operated indexers should reconstruct total supply, genesis and emission state, CashLot balances, OfflineLock age, Steward-key status and differences between physical registers and on-chain commitments. An indexer is an observer, not the source of truth.
 
 [Law and governance →](/DRAX/en/law-governance.html)
-

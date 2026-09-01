@@ -1,5 +1,5 @@
 ---
-title: "ΔΡΑΧ — Phase 0 und Risiken"
+title: "Programm DRX — Phase 0 und Risiken"
 description: "Forschungsplan, Budget, Stop-Kriterien und ehrliches Restrisiko"
 ---
 
@@ -71,4 +71,3 @@ Der Budgetkorridor von 0,95 bis 1,65 Mio. Euro ist ein **Vorschlag, keine Bewill
 Eine fixe Menge kann Deflation und reale Schuldenlast erhöhen. Narrow Banking kann Kredit verteuern. Papier und Metall bleiben von menschlichen Institutionen abhängig. Offline-Finalität ist begrenzt. Kaspa ersetzt keine nationale Rechtsordnung oder Migrationsstrategie. Technologie kann kein Verbot, keine Marktblockade und keine geopolitische Ablehnung unmöglich machen.
 
 Phase 0 ist gerade deshalb vertretbar, weil ein **No-Go** ein zulässiges und nützliches Ergebnis ist.
-
